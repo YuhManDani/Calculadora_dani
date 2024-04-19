@@ -6,4 +6,4 @@
 
 //Este es el cambio realizado desde el repositorio local, ejercicio numero 6
 
-//Esta es la rama1
+//Esta es la rama1 desde netbeans
