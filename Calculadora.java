@@ -7,3 +7,5 @@
 //Este es el cambio realizado desde el repositorio local, ejercicio numero 6
 
 //Este cambio ha sido realizado en la rama2.
+
+//Cambio para situacion de conflicto, actualmente en rama2
