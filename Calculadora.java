@@ -7,3 +7,5 @@
 //Este es el cambio realizado desde el repositorio local, ejercicio numero 6
 
 //Cambio  para conflicto realizado en: Main
+
+//Cambio realizado por David en el repositorio de Dani
