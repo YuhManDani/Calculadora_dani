@@ -7,3 +7,4 @@
 //Este es el cambio realizado desde el repositorio local, ejercicio numero 6
 
 //Cambio  para conflicto realizado en: Main
+// comentario de yasmin desde el local 
